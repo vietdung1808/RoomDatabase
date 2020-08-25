@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="hint_et_english">English</string>
+    <string name="hint_et_vietnamese">Vietnamese</string>
+    <string name="btn_add_word">Add word</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_memorized">Memorized</string>
+    <string name="btn_forgot">Forgot</string>
+    <string name="btn_remove">Remove</string>
+    <string-array name="word_type_array">
+        <item>Show All</item>
+        <item>Show Forgot</item>
+        <item>Show Memorized</item>
+    </string-array>
+</resources>
